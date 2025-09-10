@@ -14,7 +14,7 @@ A passionate full-stack developer with experience building complete web applicat
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/raghavsingh9971" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raghavsingh9971" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/raghavsingh01/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/raghavsingh01/" height="30" width="40" /></a>
+<a href="[https://www.leetcode.com/https://leetcode.com/u/raghavsingh01/](https://leetcode.com/u/RaghavSingh01/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/raghavsingh01/" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/singhrag28te/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/singhrag28te/" height="30" width="40" /></a>
 </p>
 
