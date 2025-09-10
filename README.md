@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Raghav Singh</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
+<br>
+<p align="left">
 A passionate full-stack developer with experience building complete web applications. I specialize in technologies like React.js for the front-end and Node.js for the back-end. I enjoy crafting intuitive user interfaces and architecting robust, scalable server-side solutions. This space showcases my projects and my journey in software development.
+<p/>
 
 - 🌱 I’m currently learning **Full Stack Web Development from Masai School**
 
@@ -10,7 +13,7 @@ A passionate full-stack developer with experience building complete web applicat
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/raghavsingh9971" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/raghavsingh9971" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/raghavsingh9971" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raghavsingh9971" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/u/raghavsingh01/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/raghavsingh01/" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/singhrag28te/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/singhrag28te/" height="30" width="40" /></a>
 </p>
