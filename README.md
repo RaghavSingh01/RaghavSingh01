@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Raghav Singh</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
+A passionate full-stack developer with experience building complete web applications. I specialize in technologies like React.js for the front-end and Node.js for the back-end. I enjoy crafting intuitive user interfaces and architecting robust, scalable server-side solutions. This space showcases my projects and my journey in software development.
 
 - 🌱 I’m currently learning **Full Stack Web Development from Masai School**
 
